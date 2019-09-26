@@ -7,6 +7,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/66e342d2507247dcbc5b9a3c7f2fca30)](https://www.codacy.com/app/michaelkrukov/vkpore?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ekonda/vkpore&amp;utm_campaign=Badge_Grade)
 [![codebeat badge](https://codebeat.co/badges/709259fe-147c-41da-8df5-bdbe2d89f67f)](https://codebeat.co/projects/github-com-ekonda-vkpore-master)
 [![PyPI version](https://badge.fury.io/py/vkpore.svg)](https://badge.fury.io/py/vkpore)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fekonda%2Fvkpore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fekonda%2Fvkpore?ref=badge_shield)
 
 Asynchronous library for organizing interactions with
 [Vkontakte](https://vk.com/dev) api
@@ -133,3 +134,7 @@ get_event_loop().run_until_complete(application())
   `VkClient` - it will possibly work fine.
 
 - **Does this library support telegram?** No. It's a library for Vkontakte.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fekonda%2Fvkpore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fekonda%2Fvkpore?ref=badge_large)
